@@ -1,0 +1,21 @@
+{
+  "name": "nodejs_pagination",
+  "version": "1.0.0",
+  "description": "Node.js pagination application",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "keywords": [
+    "Node.js",
+    "Pagination"
+  ],
+  "author": "Kwis Lawrence Francis ref: web-source",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "mongoose": "^5.12.5"
+  }
+}
